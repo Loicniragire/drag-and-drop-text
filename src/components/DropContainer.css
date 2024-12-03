@@ -1,0 +1,14 @@
+/* Ensure no conflicting styles */
+.drop-container ul,
+.drop-container li {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+/* Optional: Adjust legend positioning to prevent overlap */
+.MuiOutlinedInput-notchedOutline legend {
+  width: auto !important;
+  max-width: 50%; /* Prevents it from stretching too far */
+}
+
