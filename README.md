@@ -27,5 +27,5 @@ A React application that allows users to drag and drop data, parse it, display i
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/loicniragire/drop-data-application.git
-   cd drop-data-application
+   git clone https://github.com/Loicniragire/drag-and-drop-text.git
+   cd drag-and-drop-text
